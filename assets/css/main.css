@@ -3048,6 +3048,8 @@ input, select, textarea {
 			-ms-justify-content: center;
 			justify-content: center;
 			width: 50em;
+			margin-bottom: 6em;
+			margin-top: 1em;
 			-ms-flex: 1;
 		}
 
